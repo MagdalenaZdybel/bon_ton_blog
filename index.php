@@ -19,21 +19,21 @@
                     <ul>
                         <li><a href="Wpisy">Wpisy</a></li>
                         <li><a href="O_tym_blogu">O tym blogu</a></li>
-                        <li><a href="cos_tam">Æwiczenia</a></li>
+                        <li><a href="cos_tam">Ä†wiczenia</a></li>
                         <li><a href="Opisy">Opisy</a></li>
                     </ul>
                 </div>
             </nav>
         </header>
         <div class="sidebar">
-            <p> coœ tam</p>
-            <p> coœ tam</p>
+            <p> coÅ› tam</p>
+            <p> coÅ› tam</p>
         </div>
         <div class="centrum">
             <h3>Centrum wpisywania</h3>
         </div>
         <footer>
-            Copyright © 2017 All Rights Reserved
+            Copyright ï¿½ 2017 All Rights Reserved
         </footer>
 
     </body>
