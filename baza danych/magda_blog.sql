@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Czas generowania: 16 Lut 2017, 20:16
+-- Czas generowania: 16 Lut 2017, 20:26
 -- Wersja serwera: 10.1.21-MariaDB
 -- Wersja PHP: 7.1.1
 
@@ -28,7 +28,7 @@ SET time_zone = "+00:00";
 
 CREATE TABLE `wpisy` (
   `ID` int(11) NOT NULL,
-  `tytuł` varchar(256) COLLATE utf8_polish_ci NOT NULL,
+  `tytul` varchar(256) COLLATE utf8_polish_ci NOT NULL,
   `opis` varchar(256) COLLATE utf8_polish_ci NOT NULL,
   `tresc` text COLLATE utf8_polish_ci NOT NULL,
   `data` timestamp NOT NULL DEFAULT CURRENT_TIMESTAMP,
