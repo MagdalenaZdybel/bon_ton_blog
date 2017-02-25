@@ -21,7 +21,7 @@
                         <li><a href="O_tym_blogu">O tym blogu</a></li>
                         <li><a href="cos_tam">Ćwiczenia</a></li>
                         <li><a href="Opisy">Opisy</a></li>
-			<li><a href="mailto:magda@localhost">Kontakt</a></li>
+			<li><a href="mailto:magda@motta.com.pl">Kontakt</a></li>
                     </ul>
                 </div>
             </nav>
