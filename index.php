@@ -31,6 +31,34 @@
         </div>
         <div class="centrum">
             <h3>Centrum wpisywania</h3>
+            <div class="wpisy"></div>
+<?php
+/*mysql_connect("localhost" , "c5magda01" , "utewFKxXQK50@"); 127.0.0.1*/
+
+if (!$db_link = mysqli_connect("localhost" , "root" , "")){
+    echo('Wystąpił błąd podczas połączenia z serwerem MySQL...<BR>');
+    exit;
+}
+else {
+    echo('Połączenie z bazą zostało nawiązane...<BR>');
+}
+if(!mysqli_select_db($db_link, "magda_blog")){
+    echo('Wystąpił błąd podczas wyboru bazy danych: magda_blog<BR>');
+}
+//if(!mysqli_select_db($link, $dbname)){
+//    echo('Wystąpił błąd podczas wyboru bazy danych: magda_blog<BR>');
+//}
+ else {
+     echo('Została wybrana baza danych: magda_blog<BR>');
+}
+if(!mysqli_close($db_link)){
+    echo('Wystąpił błąd podczas zamykania połączenia z serwerem MySQL...<BR>');
+}
+ else {
+     echo('Połączenie z serwerem MySQL zostało zamknięte...<BR>');
+}
+            
+?>)
         </div>
         <footer>
             Copyright � 2017 All Rights Reserved

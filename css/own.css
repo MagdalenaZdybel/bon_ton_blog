@@ -1,7 +1,7 @@
 /*
 font-family: 'Lato', sans-serif;*/
 
-.start_site {
+/*.start_site {
     font-family: 'Lato', sans-serif;
     padding: 0;
     margin: auto;
@@ -9,7 +9,9 @@ font-family: 'Lato', sans-serif;*/
     /*overflow: hidden;*/
 }
 
-
+body {
+    margin-left: 100px;
+}
 
 
 
