@@ -4,7 +4,7 @@
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta name="description" content="Bon-ton blog">
-        <title>Bon-ton owy blog Dupa dupa dupa :)</title>
+        <title>Bon-ton owy blog WERSJA 0.01</title>
         <link rel="stylesheet" href="css/own.css">
         <link rel="stylesheet" href="css.normalize.css">
         <link href="https://fonts.googleapis.com/css?family=Lato:300,300i,400,400i&amp;subset=latin-ext" rel="stylesheet">
